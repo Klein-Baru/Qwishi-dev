@@ -29,12 +29,6 @@ __login__obj = __login__(auth_token = "courier_auth_token",
 
 LOGGED_IN = __login__obj.build_login_ui()
 
-
-
-st.subheader("Endorsed by The Dedan Kimathi University of Technology, DeKUT")
-img = Image.open('dekut_logo.png')
-st.image(img)
-
 st.subheader("Learn", anchor="learn")
 st.write("How to Sign up and set up your hostel.")
 st.video("https://www.youtube.com/watch?v=2kMi6MfmGM8")
