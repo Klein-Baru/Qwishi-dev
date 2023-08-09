@@ -1,4 +1,4 @@
 streamlit==1.25.0
 pillow
-git+https://github.com/Klein-Baru/streamlit-auth-login-ui-qwishi.git
+git+https://github.com/fsmosca/streamlit_login_auth_ui.git
 argon2
